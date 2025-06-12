@@ -1,0 +1,7 @@
+package forme;
+
+public interface FormeGeometrique {
+    public double aire();
+    public double perimetre();
+    public char[][] getGrille();
+}

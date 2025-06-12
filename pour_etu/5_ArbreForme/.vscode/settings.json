@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "forme",
+        "elements",
+        "arbre",
+        "src"
+    ],
+    "java.project.referencedLibraries": [],
+    "java.project.outputPath": "bin"
+}
